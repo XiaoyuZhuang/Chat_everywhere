@@ -11,4 +11,6 @@ Please wait.
 
 敬请期待
 
-[![](https://raw.githubusercontent.com/XiaoyuZhuang/Chat_everywhere/main/fig2.png)](https://www.bilibili.com/video/BV13i4y1s7N5/)
+<a href="https://www.bilibili.com/video/BV13i4y1s7N5/">
+    <img src="https://raw.githubusercontent.com/XiaoyuZhuang/Chat_everywhere/main/fig2.png" width="100" />
+</a>
