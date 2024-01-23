@@ -3,9 +3,9 @@
     <img src="https://raw.githubusercontent.com/XiaoyuZhuang/Chat_everywhere/main/fig2.png" width="200" height="200"/>
 </a>
 
-Chat with ChatGPT anywhere you can input text by quickly pressing a certain key. 
+Chat with ChatGPT anywhere you can input text by quickly pressing a certain key. History recording of chat is supported.
 
-在一切能输入文本的地方与chatgpt进行聊天，快速连按某键快速调用。
+在一切能输入文本的地方与chatgpt进行聊天，快速连按“-”键两次快速调用。支持聊天历史记录。
 
 At present, it only runs in py, not packaged as a program and does not do the corresponding GUI interface.
 
