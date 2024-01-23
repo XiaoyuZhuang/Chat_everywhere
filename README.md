@@ -10,3 +10,5 @@ At present, it only runs in py, not packaged as a program and does not do the co
 Please wait.
 
 敬请期待
+
+[![](https://i1.hdslb.com/bfs/archive/9a32c55b90ac9485d02dc1a50dc1fa94d12b3111.jpg@640w_400h_1c.webp)](https://www.bilibili.com/video/BV13i4y1s7N5/)
