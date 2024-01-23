@@ -11,4 +11,4 @@ Please wait.
 
 敬请期待
 
-[![](https://raw.githubusercontent.com/XiaoyuZhuang/Chat_everywhere/main/fig2.png@640w_400h_1c.webp)](https://www.bilibili.com/video/BV13i4y1s7N5/)
+[![](https://raw.githubusercontent.com/XiaoyuZhuang/Chat_everywhere/main/fig2.png)](https://www.bilibili.com/video/BV13i4y1s7N5/)
